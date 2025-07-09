@@ -46,6 +46,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dishachakra/dishachakra/output/snake.svg" alt="Snake animation" />
 
 ###
