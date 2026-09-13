@@ -6,7 +6,17 @@
 
 4+ Years Experience &nbsp;|&nbsp; 30+ WordPress Projects Delivered &nbsp;|&nbsp; REST API & Decoupled CMS Specialist
 
-[Portfolio](https://dishachakra.github.io/html-portfolio) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/disha-chakraborty-356113139) &nbsp;•&nbsp; [Email](mailto:disha.chakrabortydev@gmail.com)
+<p align="center">
+  <a href="https://dishachakra.github.io/html-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/disha-chakraborty-356113139">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:disha.chakrabortydev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -64,7 +74,9 @@ WordPress Backend  ──►  Custom CPTs & Themes  ──►  REST API Systems 
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dishachakra&layout=compact&langs_count=6&theme=dracula&hide_border=false" alt="Disha's Top Languages" width="450" />
+  <a href="https://github.com/dishachakra">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dishachakra&layout=compact&langs_count=6&theme=dracula&hide_border=false" alt="Disha's Top Languages" width="450" />
+  </a>
 </div>
 
 ---
@@ -86,6 +98,16 @@ Out of **30+ WordPress projects** delivered, here are a few live production webs
 
 Whether you're looking to discuss Headless WordPress engineering, freelance opportunities, or modern backend strategy, feel free to reach out!
 
-- 💼 **LinkedIn:** [linkedin.com/in/disha-chakraborty-356113139](https://www.linkedin.com/in/disha-chakraborty-356113139)
-- 🌐 **Portfolio:** [dishachakra.github.io/html-portfolio](https://dishachakra.github.io/html-portfolio)
-- 📧 **Email:** [disha.chakrabortydev@gmail.com](mailto:disha.chakrabortydev@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/disha-chakraborty-356113139">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://dishachakra.github.io/html-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:disha.chakrabortydev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
