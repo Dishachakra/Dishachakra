@@ -55,7 +55,7 @@ Building custom WordPress solutions & exploring **Headless CMS**.
 
 ### ✦ Currently Exploring
 
-`Headless WordPress` · `Advanced PHP` · `API-driven Architecture` . `Frontend` . ` Backend1 . `SEO`
+`Headless WordPress` · `Advanced PHP` · `API-driven Architecture` . `Frontend` . ` Backend` . `SEO`
 
 ---
 
