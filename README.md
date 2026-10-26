@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Disha Chakraborty
@@ -32,7 +33,7 @@ I am actively transitioning from monolithic WordPress development into **Headles
 
 ## 📈 Developer Evolution
 
-```
+```text
 WordPress Backend  ──►  Custom CPTs & Themes  ──►  REST API Systems  ──►  Headless WordPress  ──►  Modern Web Stack
 ```
 
@@ -89,6 +90,18 @@ Out of **30+ WordPress projects** delivered, here are a few live production webs
 - 🌐 **[HIH7 Web Solutions](https://hih7.com/)** – Corporate digital portal engineered with custom WordPress functionality & responsive layout.
 - 🩺 **[Perth Denture Care](https://perthdenturecare.com.au/)** – Healthcare clinical website featuring bespoke backend customization & performance optimization.
 - 🛡️ **[Bounce Mouthguards](https://bouncemouthguards.com.au/)** – E-commerce & custom product showcase website tailored for Australian clients.
+
+---
+
+## 🌿 Featured Web Project
+
+### Velora
+
+A modern web project showcasing a contemporary interface and web development capabilities.
+
+🔗 **[Explore Velora Live](https://velora-5bte.onrender.com/)**
+
+---
 
 👉 **[Explore Full Live Portfolio](https://dishachakra.github.io/html-portfolio)**
 
